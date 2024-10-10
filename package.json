@@ -1,0 +1,20 @@
+{
+  "name": "create-aurora-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-aurora-app": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^12.1.0",
+    "shelljs": "^0.8.5"
+  }
+}
