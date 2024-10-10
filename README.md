@@ -37,6 +37,8 @@ Then, you can just investigate the file structure or read more docs about how de
 
 Our dApp is based on top of the React and [Wagmi](https://wagmi.sh/). 
 
+The repo used for these is [Aurora dApp Example](https://github.com/aurora-is-near/aurora-dapp-example).
+
 It contains the next basic functionalities for you project:
 
 - Connecting a wallet
