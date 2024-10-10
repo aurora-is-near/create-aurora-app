@@ -19,7 +19,7 @@ if (node_version < 18) {
 program
   .name('create-aurora-app')
   .description('Welcome to Aurora!\nLet\'s create your first app.\nPlease choose a type of an app you want to have below in Commands\n')
-  .version('1.0.0');
+  .version('1.0.1');
 
 program.command('dapp')
 .description('Create a dApp on Aurora')
