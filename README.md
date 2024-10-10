@@ -6,7 +6,7 @@ Quickly build apps backed by the [Aurora](https://aurora.dev/) blockchain
 
 Make sure you have:
 - a [current version of Node.js](https://nodejs.org) installed – we are targeting versions `>=18`
-- [git] (https://git-scm.com/downloads) installed
+- [git](https://git-scm.com/downloads) installed
 - for the smart contracts development, please install `yarn` with `npm install --global yarn` or read more [here](https://classic.yarnpkg.com/lang/en/docs/install/)
 - we also recommend using [pnpm](https://pnpm.io/installation) for all of your Node projects
 
